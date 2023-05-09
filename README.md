@@ -3,7 +3,7 @@
 
 - 💻 I'm focusing mainly in web development, but I'm also interested in mobile developing
 
-- 🌱 constantly learning and facing new challenges
+- 🌱 Constantly learning and facing new challenges
 
 - 👷‍♂️ I’m currently working on **CourseMaster**
 
