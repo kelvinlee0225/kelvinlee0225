@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋!! I'm I'm Kelvin Lee</h1>
+<h1 align="center">Hi there 👋!! I'm Kelvin Lee</h1>
 <h3 align="center">I'm a Software Engineer from Dominican Republic who is always motivated to learn more. I'm an honest person, a team player, I hope I can help you out!</h3>
 
 - 💻 I'm focusing mainly in web development, but I'm also interested in mobile developing
