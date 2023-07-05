@@ -5,8 +5,6 @@
 
 - 🌱 Constantly learning and facing new challenges
 
-- 👷‍♂️ I’m currently working on **CourseMaster**
-
 - 📫 How to reach me **kelvinlee0225@gmail.com**
 
 - 🐈 Fun fact **I love cats and playing volleyball**
